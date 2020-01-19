@@ -1,4 +1,4 @@
-# vuestacks-chat-MEVN-mongoose
+## vuestacks-chat-mevn-okta-auth
 
 ## Project setup
 ```
