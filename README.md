@@ -52,4 +52,22 @@ See ```api/post.model.js``` to view Mongoose schema setup.
 4) In cloud.mongodb.com, retrieve the connection string for your MongoDB cluster
 5) Add your connection string to ```DB = ''``` in ```api/DB.js```
 
+### Setting Up Okta Authentication
+
+1) Sign up for a forever-free developer account
+
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-mongoose/master/src/assets/okta-1.JPG)
+
+2) Once logged in, create a new application by clicking “Add Application”.
+
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-mongoose/master/src/assets/okta-2.JPG)
+
+3) Select the “Single-Page App” platform option.
+
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-mongoose/master/src/assets/okta-3.JPG)
+
+4) The default application settings should be the same as those pictured.
+
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-mongoose/master/src/assets/okta-4.JPG)
+
 Enjoy the demo! Submit an issue if you see anything that could be improved!
