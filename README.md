@@ -58,21 +58,26 @@ See ```api/post.model.js``` to view Mongoose schema setup.
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-1.png)
 
+
 2) Once logged in, create a new application by clicking “Add Application”.
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-2.png)
+
 
 3) Select the “Single-Page App” platform option.
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-3.png)
 
+
 4) The default application settings should be the same as those pictured.
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-4.png)
 
+
 5) Retrieve the Client ID from the newly created project. 
 
 ![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-5.png)
+
 
 6) Paste the Client ID in Okta initializer inside ./router/index.js, along with the OktaDomain for your project:
 
@@ -84,7 +89,7 @@ Vue.use(Auth, {
   scope: 'openid profile email'
 })
 ```
-[See: Build a Basic CRUD App with Vue.js and Node](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
+[Learn more about building Vue.js CRUD apps with Okta](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
 
 
 Enjoy the demo! Submit an issue if you see anything that could be improved!
