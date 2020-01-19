@@ -1,4 +1,4 @@
-# vuestacks-chat-MEVN-mongoose
+## vuestacks-chat-mevn-okta-auth
 
 ## Project setup
 ```
@@ -47,7 +47,7 @@ See ```api/post.model.js``` to view Mongoose schema setup.
 ### Setting Up Node/Express/MongoDB
 
 1) Navigate to the folder “vuestacks-chat-mevn-mongoose/api” in the CLI
-2) Run npm init
+2) Run ```npm install```
 3) Run ```nodemon server``` to start the server
 4) In cloud.mongodb.com, retrieve the connection string for your MongoDB cluster
 5) Add your connection string to ```DB = ''``` in ```api/DB.js```
