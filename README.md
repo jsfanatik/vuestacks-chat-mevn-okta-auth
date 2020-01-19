@@ -54,7 +54,7 @@ See ```api/post.model.js``` to view Mongoose schema setup.
 
 ### Setting Up Okta Authentication
 
-**[Learn more about building Vue.js CRUD apps with Okta](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)**
+**[Click here to learn more about building Vue.js CRUD apps with Okta](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)**
 
 
 
