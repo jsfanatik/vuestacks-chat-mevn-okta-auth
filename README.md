@@ -56,18 +56,18 @@ See ```api/post.model.js``` to view Mongoose schema setup.
 
 1) Sign up for a forever-free developer account
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-1.JPG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-1.png)
 
 2) Once logged in, create a new application by clicking “Add Application”.
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-2.JPG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-2.png)
 
 3) Select the “Single-Page App” platform option.
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-3.JPG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-3.png)
 
 4) The default application settings should be the same as those pictured.
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-4.JPG)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-chat-mevn-okta-auth/master/src/assets/okta-4.png)
 
 Enjoy the demo! Submit an issue if you see anything that could be improved!
