@@ -89,6 +89,7 @@ Vue.use(Auth, {
   scope: 'openid profile email'
 })
 ```
+
 **[Learn more about building Vue.js CRUD apps with Okta](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)**
 
 
