@@ -84,5 +84,7 @@ Vue.use(Auth, {
   scope: 'openid profile email'
 })
 ```
+[See: Build a Basic CRUD App with Vue.js and Node](https://developer.okta.com/blog/2018/02/15/build-crud-app-vuejs-node)
+
 
 Enjoy the demo! Submit an issue if you see anything that could be improved!
